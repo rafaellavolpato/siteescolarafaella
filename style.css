@@ -9,7 +9,23 @@
 }
 
 .cabecalho-lista-item{
-    display: inline-block; 
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0; 
+} 
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.imagem-escola{
+    width: 20%;
+}
+
+.escola {
+background-image: linear-gradient(rgb(128, 38, 212),rgb(131, 100, 160) )  ; 
+color: white
 }
 
 
