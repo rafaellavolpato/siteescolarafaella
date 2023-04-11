@@ -25,7 +25,20 @@
 
 .escola {
 background-image: linear-gradient(rgb(128, 38, 212),rgb(131, 100, 160) )  ; 
-color: white
+color: white;
+display: flex;
+justify-content: center;
+}
+
+.escola-conteudo{
+    width: 35%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
 }
 
 
